@@ -11,6 +11,8 @@ import time
 import argparse
 import warnings
 
+import tensorflow as tf
+
 from keras.models import Model
 from keras.layers import Input
 from keras.layers.convolutional import Convolution2D, AveragePooling2D, MaxPooling2D

@@ -7,9 +7,10 @@ Color Preservation is based on the paper [Preserving Color in Neural Artistic St
 
 Masked Style Transfer is based on the paper [Show, Divide and Neural: Weighted Style Transfer](http://cs231n.stanford.edu/reports/2016/pdfs/208_Report.pdf)
 
-## Colaboratory Support
+## 
+oratory Support
 
-[This codebase can now be run directly from colaboratory using the following link](https://colab.research.google.com/github/titu1994/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb), or by opening `NeuralStyleTransfer.ipynb` and visiting the Colab link.
+[This codebase can now be run directly from colaboratory using the following link](https://colab.research.google.com/github/AymericFerreira/Neural-Style-Transfer/blob/master/NeuralStyleTransfer.ipynb), or by opening `NeuralStyleTransfer.ipynb` and visiting the Colab link.
 
 Colab link supports almost all of the additional arguments, except of the masking ones. They will probably be added at a later date.
 
@@ -17,11 +18,11 @@ Colab link supports almost all of the additional arguments, except of the maskin
 
 ## Guide
 
-See the <a href="https://github.com/titu1994/Neural-Style-Transfer/blob/master/Guide.md">guide</a> for details regarding how to use the script to achieve the best results
+See the <a href="https://github.com/AymericFerreira/Neural-Style-Transfer/blob/master/Guide.md">guide</a> for details regarding how to use the script to achieve the best results
 
 It also explains how to setup Theano (with GPU support) on both Windows and Linux. Theano on Windows is a long and tedious process, so the guide can speed up the process by simply letting you finish all the steps in the correct order, so as not to screw up the finicky Theano + Windows setup.
 
-The **Script Helper** program can be downloaded from the Releases tab of this repository, [Script Helper Releases](https://github.com/titu1994/Neural-Style-Transfer/releases). Extract it into any folder and run the `Neural Style Transfer.exe` program. On Linux, you will need to install Mono C# to run the script helper program.
+The **Script Helper** program can be downloaded from the Releases tab of this repository, [Script Helper Releases](https://github.com/AymericFerreira/Neural-Style-Transfer/releases). Extract it into any folder and run the `Neural Style Transfer.exe` program. On Linux, you will need to install Mono C# to run the script helper program.
 
 # Examples
 ## Single Style Transfer
